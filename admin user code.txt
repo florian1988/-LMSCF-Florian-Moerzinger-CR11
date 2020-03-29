@@ -1,0 +1,7 @@
+ADMIN: 
+EMAIL:flo.moerzinger@gmx.at
+PASSWORD:123456
+
+UsER:
+EMAIL:code@gmx.at
+PASSWORD:123456
